@@ -5,7 +5,7 @@
 **Lazystripe** is a powerful Terminal UI (TUI) for Stripe, designed for developers who want to manage their balances, customers, and transactions without leaving the command line.
 
 
-![](./demo.gif)
+[![asciicast](https://asciinema.org/a/8fiZSBQoqbsUWZkY2ivGYHnnx.svg)](https://asciinema.org/a/8fiZSBQoqbsUWZkY2ivGYHnnx)
 
 ---
 
